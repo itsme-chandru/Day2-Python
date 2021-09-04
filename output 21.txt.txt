@@ -1,0 +1,11 @@
+Split the words based on the vowels
+[['Th', 's'], ['', 's'], ['', ''], ['s', 'mpl', ''], ['f', 'l', ''], ['T', ''], ['T', 'g', 'th', 'r'], ['l', 'k', 'ng'], ['T', ''], ['Th', 's'], ['th', 's'], ['Th', 't'], ['Th', 's'], ['', ''], ['', 's', 'd'], ['f', 'r'], ['m', '', 'w', 'ng'], ['f', 'l', ''], ['h', 'ndl', 'ng'], ['T', 'mm', 'r', 'w'], ['', ''], ['', 'm'], ['g', '', 'ng'], ['T', ''], ['', 's', ''], ['d', 'ff', 'r', 'nt'], ['', 'll', 'w', 'ng'], ['f', 'l', ''], ['m', 't', 'm', ''], ['', 'nt', 'r', 'st', 'ng'], ['m', 'l', 'y', 'l', 'm'], ['c', 'm', 'c'], ['Th', 's']]
+
+Capitalize 3rd letter of every word
+['ThIs', 'is', 'a', 'saMple', 'fiLe', 'To', 'ToGether', 'liKing', 'To', 'ThIs', 'thIs', 'ThAt', 'ThIs', 'i', 'usEd', 'foR', 'meOwing', 'fiLe', 'haNdling', 'ToMmorow', 'i', 'am', 'goIng', 'To', 'usE', 'diFferent', 'alLowing', 'fiLe', 'maToma', 'inTeresting', 'maLayalam', 'coMoc', 'ThIs']
+
+Capitalize 5th word of the file
+['This', 'is', 'a', 'sample', 'FILE', 'To', 'Together', 'liking', 'To', 'This', 'this', 'That', 'This', 'i', 'used', 'for', 'meowing', 'file', 'handling', 'Tommorow', 'i', 'am', 'going', 'To', 'use', 'different', 'allowing', 'file', 'matoma', 'interesting', 'malayalam', 'comoc', 'This']
+
+Content after replacing space with '-' and new line with ';'
+This-is-a-sample-file-To-Together-liking-To;This-this-That-This-i-used-for-meowing-file-handling-Tommorow-i-am-going-To-use-different-allowing;file-matoma-interesting-malayalam;comoc-This
